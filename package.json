@@ -1,0 +1,20 @@
+{
+  "name": "mongo-aggregation",
+  "version": "1.0.0",
+  "description": "learning mongodb aggregation",
+  "main": "index.js",
+  "repository": "https://github.com/codeShaurya/mongo-aggregation.git",
+  "author": "Shubham Maurya <code.shaurya@gmail.com>",
+  "license": "MIT",
+  "keywords": [],
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.4",
+    "nodemon": "^1.17.5"
+  }
+}
